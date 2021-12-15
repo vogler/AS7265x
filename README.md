@@ -8,6 +8,7 @@ Food recognition experiments with the AS7265x spectral sensor (18 channels 410nm
 
 - https://learn.sparkfun.com/tutorials/spectral-triad-as7265x-hookup-guide/all
 - https://how2electronics.com/interfacing-triad-spectroscopy-sensor-as7265x-with-arduino/
+- Datasheets: https://github.com/sparkfun/Qwiic_Spectral_Sensor_AS7265x/tree/master/Documents
 
 ![image](https://user-images.githubusercontent.com/493741/146160091-eb812200-ea12-4d0d-9f05-1a1754b1d930.png)
 ![image](https://user-images.githubusercontent.com/493741/146161368-8f752513-44b6-4810-a146-d3f8e9be5362.png)
