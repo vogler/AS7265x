@@ -19,3 +19,11 @@ Library: https://github.com/sparkfun/SparkFun_AS7265x_Arduino_Library.
 Starting point: [Example2_BasicReadingsWithLEDs.ino](https://github.com/vogler/AS7265x/blob/main/Example2_BasicReadingsWithLEDs/Example2_BasicReadingsWithLEDs.ino).
 
 TODO: 3D printed shroud to remove background illumination and remove read distance variations.
+
+DIY spectrometer:
+- [YouTube: Building a Nanodrop Style UV/Vis Spectrometer](https://www.youtube.com/watch?v=pIk8I10ZmYY) using diffraction grating -> mirror -> webcam
+
+Papers with applications:
+- Measuring interactance (alt: transmittance, reflectance) for apples with a AS7265x: [A Portable Spectrometric System for Quantitative Prediction of the Soluble Solids Content of Apples with a Pre-calibrated Multispectral Sensor Chipset](https://www.mdpi.com/1424-8220/20/20/5883)
+  - quality/discrimination of apple, orange, kiwifruit, peach, grape, strawberry, grape, jujube, banana, mango: [Fruit Quality Evaluation Using Spectroscopy Technology: A Review](https://www.mdpi.com/1424-8220/15/5/11889)
+  - [Near Infrared Spectroscopy: fundamentals, practical aspects and analytical applications](https://www.scielo.br/j/jbchs/a/R8Z76mVbzwxk6RCYCLGkSnz/?lang=en)
